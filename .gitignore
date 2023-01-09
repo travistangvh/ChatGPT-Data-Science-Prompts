@@ -1,2 +1,3 @@
 *.docx
 *.png
+!banner.png

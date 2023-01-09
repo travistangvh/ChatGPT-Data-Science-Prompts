@@ -1,15 +1,17 @@
 
-<h1> Welcome to the ChatGPT for Data Science Repository!</h1>
+<h1> 🚀 ChatGPT Prompts for Data Science Repository!</h1>
 
-<center>![Screenshot](logo.png)</center>
+<center>![ChatGPT for Data Science Repo banner](banner.png)</center>
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
 In this repository, you will find prompts that can be used with ChatGPT for data science purposes. It is curated by [Travis Tang](https://www.linkedin.com/in/travistang).
 
-To get started, simply use the prompts below as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+To get started, simply use the prompts below as input for ChatGPT. Replace everything in `[squarebrackets]` with your own to achieve results specific to your use case. 
 
-You can also view the collated prompts as a [PDF here](chatgpt-datascience-prompt.pdf) 
+You can also view the collated prompts (including screenshots of ChatGPT's response) as a [PDF here](chatgpt-datascience-prompts.pdf) 
+
+Heavily inspired by [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-prompts).
 ---
 # Table of Contents:
 1. [Write python](#write-python)
@@ -25,7 +27,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 11. [Misc](#misc)
 
 ---
-#WRITE PYTHON
+# WRITE PYTHON
 ## 1. Train Classification Model
 > Prompt: I want you to act as a data scientist and code for me. I have a dataset of `[describe dataset]`. Please build a machine learning model that predict `[target variable]`. 
 
@@ -82,7 +84,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 18. Validate Column
 > Prompt: I want you to act as a data scientist. Please write code to test if that my pandas Dataframe `[insert requirements here]`
 
-#EXPLAIN CODE
+# EXPLAIN CODE
 ## 19. Explain Python
 > Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a code explainer. What is this code doing? `[Insert code]`
@@ -93,7 +95,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 21. Explain Google Sheets Formula
 > Prompt: I want you to act as a Google Sheets formula explainer. Explain the following Google Sheets command. `[Insert formula]`
 
-#OPTIMIZE CODE
+# OPTIMIZE CODE
 ## 22. Improve Code Speed
 > Prompt: I want you to act as a software developer. Please help me improve the time complexity of the code below. `[Insert code]`
 
@@ -112,7 +114,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 27. Simplify Python
 > Prompt: I want you to act as a code simplifier. Can you simplify the following code? 
 
-#FORMAT CODE
+# FORMAT CODE
 ## 28. Write Documentation
 > Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a software developer. Please provide documentation for func1 below. `[Insert function]`
@@ -123,7 +125,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 30. Format SQL
 > Prompt: I want you to act as a SQL formatter. Please format the following SQL code. Please convert all reserved keywords to uppercase `[Insert requirements]`. `[Insert Code]`
 
-#TRANSLATE CODE
+# TRANSLATE CODE
 ## 31. Translate Between DBMS
 > Prompt: I want you to act as a coder and write SQL code for MySQL. What is the equivalent of PostgreSQL's DATE_TRUNC for MySQL?
 
@@ -135,7 +137,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 > Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a code translator. Can you please convert the following code from R to python? `[Insert code]`
 
-#EXPLAIN CONCEPTS
+# EXPLAIN CONCEPTS
 ## 34. Explain to Five-Year-Old
 > Prompt: I want you to act as a data science instructor. Explain `[concept]` to a five-year-old.
 
@@ -151,7 +153,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 38. Explain Like Stackoverflow
 > Prompt: I want you to act as an answerer on StackOverflow. You can provide code snippets, sample tables and outputs to support your answer. `[Insert technical question]`
 
-#SUGGEST IDEAS
+# SUGGEST IDEAS
 ## 39. Suggest Edge Cases
 > Prompt: I want you to act as a software developer. Please help me catch edge cases for this function `[insert function]`
 
@@ -176,7 +178,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 46. Career Coaching
 > Prompt: I want you to act as a career advisor. I am looking for a role as a `[role name]`. My background is `[...]`. How do I land the role and with what resources exactly in 6 months?
 
-#TROUBLESHOOT PROBLEM
+# TROUBLESHOOT PROBLEM
 ## 47. Correct Own Chatgpt Code
 > Prompt: Your above code is wrong. `[Point out what is wrong]`. Can you try again?
 
@@ -189,14 +191,14 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 50. Troubleshoot PowerBI Model
 > Prompt: I want you to act as a PowerBl modeler. Here is the details of my current project. `[Insert details]`. Do you see any problems with the table?
 
-#WRITE SQL
+# WRITE SQL
 ## 51. Create Running Average
 > Prompt: I want you to act as a data scientist and write SQL code for me. I have a table with two columns `[Insert column names]`. I would like to calculate a running average for `[which value]`. What is the SQL code that works for PostgreSQL 14?
 
 ## 52. Solve Leetcode Question
 > Prompt: Assume you are given the tables... with the columns... Output the following... `[Question from Data Lemur)
 
-#WRITE OTHER CODE
+# WRITE OTHER CODE
 ## 53. Write Google Sheets Formula
 > Prompt: I want you to act as a bot that generates Google Sheets formula. Please generate a formula that `[describe requirements]`
 
@@ -209,7 +211,7 @@ You can also view the collated prompts as a [PDF here](chatgpt-datascience-promp
 ## 56. Write VBA
 > Prompt: I want you to act as an Excel VBA developer. Can you write a VBA that `[Insert function here]`?
 
-#MISC
+# MISC
 ## 57. Format Tables
 > Prompt: I want you to act as a document formatter. Please format the following into a nice table for me to place in Google Docs? `[insert text table here]`
 
