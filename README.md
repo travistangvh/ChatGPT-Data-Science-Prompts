@@ -1,15 +1,17 @@
+<h1> 🚀 ChatGPT Promptsfor Data Science Repository!</h1>
 
-<h1> Welcome to the ChatGPT for Data Science Repository!</h1>
-
-<center>![Screenshot](logo.png)</center>
+<center>![ChatGPT for Data Science](prompts/banner.png)</center>
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
 In this repository, you will find prompts that can be used with ChatGPT for data science purposes. It is curated by [Travis Tang](https://www.linkedin.com/in/travistang).
 
-To get started, simply use the prompts below as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+To get started, simply use the prompts below as input for ChatGPT. Replace everything in `[squarebrackets]` with your own to achieve results specific to your use case.
 
-You can also view the collated prompts as a [PDF here](chatgpt-datascience-prompt.pdf) 
+You can also view the collated prompts (including screenshots of ChatGPT's response) as a [PDF here](chatgpt-datascience-prompt.pdf) 
+
+Adapted from the [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-prompts) for Data Science.
+
 ---
 # Table of Contents:
 1. [Write python](#write-python)
