@@ -1,17 +1,15 @@
 
-<h1> 🚀 ChatGPT Prompts for Data Science Repository!</h1>
+<h1> Welcome to the ChatGPT for Data Science Repository!</h1>
 
-<center>![ChatGPT for Data Science Repo banner](banner.png)</center>
+<center>![Screenshot](logo.png)</center>
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
 In this repository, you will find prompts that can be used with ChatGPT for data science purposes. It is curated by [Travis Tang](https://www.linkedin.com/in/travistang).
 
-To get started, simply use the prompts below as input for ChatGPT. Replace everything in `[squarebrackets]` with your own to achieve results specific to your use case. 
+To get started, simply use the prompts below as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
-You can also view the collated prompts (including screenshots of ChatGPT's response) as a [PDF here](chatgpt-datascience-prompts.pdf) 
-
-Heavily inspired by [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-prompts).
+You can also view the collated prompts as a [PDF here](chatgpt-datascience-prompt.pdf) 
 ---
 # Table of Contents:
 1. [Write python](#write-python)
@@ -78,7 +76,7 @@ Heavily inspired by [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-
 > Prompt: I want you to act as a data scientist. I need to create a numpy array. This numpy array should have the shape of (x,y,z). Please initialize the numpy array with random values.
 
 ## 17. Write Unit Test
-> Credit: [@svpino](https://twitter.com/svpino)
+Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a software developer. Please write unit tests for the function `[Insert function]`. The test cases are: `[Insert test cases]`
 
 ## 18. Validate Column
@@ -86,7 +84,7 @@ Heavily inspired by [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-
 
 # EXPLAIN CODE
 ## 19. Explain Python
-> Credit: [@svpino](https://twitter.com/svpino)
+Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a code explainer. What is this code doing? `[Insert code]`
 
 ## 20. Explain SQL
@@ -116,7 +114,7 @@ Heavily inspired by [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-
 
 # FORMAT CODE
 ## 28. Write Documentation
-> Credit: [@svpino](https://twitter.com/svpino)
+Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a software developer. Please provide documentation for func1 below. `[Insert function]`
 
 ## 29. Improve Readability
@@ -130,11 +128,11 @@ Heavily inspired by [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-
 > Prompt: I want you to act as a coder and write SQL code for MySQL. What is the equivalent of PostgreSQL's DATE_TRUNC for MySQL?
 
 ## 32. Translate Python to R
-> Credit: [@svpino](https://twitter.com/svpino)
+Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a code translator. Can you please convert the following code from python to R? `[Insert code]`
 
 ## 33. Translate R to Python
-> Credit: [@svpino](https://twitter.com/svpino)
+Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a code translator. Can you please convert the following code from R to python? `[Insert code]`
 
 # EXPLAIN CONCEPTS
