@@ -1,0 +1,1 @@
+I want you to act as an SQL code optimizer. The following code is slow. Can you help me speed it up? [Insert SQL]

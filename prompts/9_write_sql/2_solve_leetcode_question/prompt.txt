@@ -1,0 +1,1 @@
+Assume you are given the tables... with the columns... Output the following... [Question from Data Lemur)

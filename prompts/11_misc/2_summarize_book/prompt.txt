@@ -1,0 +1,1 @@
+I want you to act as a technical book summarizer. Can you please summarize the book [name] with 5 main points?

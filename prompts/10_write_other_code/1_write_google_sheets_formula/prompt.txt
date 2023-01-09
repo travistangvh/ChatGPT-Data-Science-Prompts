@@ -1,0 +1,1 @@
+I want you to act as a bot that generates Google Sheets formula. Please generate a formula that [describe requirements]

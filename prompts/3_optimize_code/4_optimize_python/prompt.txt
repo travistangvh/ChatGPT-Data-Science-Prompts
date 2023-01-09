@@ -1,0 +1,1 @@
+I want you to act as a code optimizer. The code is poorly written. How do I correct it? [Insert code here]

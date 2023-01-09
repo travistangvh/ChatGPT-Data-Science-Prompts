@@ -1,0 +1,1 @@
+I want you to act as a code optimizer. Can you point out what's wrong with the following Pandas code and optimize it? [Insert code here]

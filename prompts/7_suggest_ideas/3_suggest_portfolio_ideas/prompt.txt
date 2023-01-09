@@ -1,0 +1,1 @@
+I want you to act as a data science coach. My background is in [...] and I would like to [career goal]. I need to build a portfolio of data science projects that will help me land a role in [...] as a [...]. Can you suggest five specific portfolio projects that will showcase my expertise in [...] and are of relevance to [company]?

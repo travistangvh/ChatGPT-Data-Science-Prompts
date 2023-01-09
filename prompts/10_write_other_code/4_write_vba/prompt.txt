@@ -1,0 +1,1 @@
+I want you to act as an Excel VBA developer. Can you write a VBA that [Insert function here]?

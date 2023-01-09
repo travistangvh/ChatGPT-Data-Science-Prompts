@@ -1,0 +1,1 @@
+I want you to act as a code simplifier. Can you simplify the following code? 

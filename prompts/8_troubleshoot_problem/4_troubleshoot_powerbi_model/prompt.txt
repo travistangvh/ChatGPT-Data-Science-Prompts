@@ -1,0 +1,1 @@
+I want you to act as a PowerBl modeler. Here is the details of my current project. [Insert details]. Do you see any problems with the table?

@@ -1,0 +1,1 @@
+I want you to act as a Linux terminal expert. Please write the code to [describe requirements]

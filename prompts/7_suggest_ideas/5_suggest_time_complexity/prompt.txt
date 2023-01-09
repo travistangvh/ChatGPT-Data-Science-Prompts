@@ -1,0 +1,1 @@
+I want you to act as a software developer. Please compare the time complexity of the two algorithms below. [Insert two functions]

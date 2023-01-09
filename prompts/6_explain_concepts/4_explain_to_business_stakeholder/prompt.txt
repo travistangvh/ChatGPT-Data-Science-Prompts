@@ -1,0 +1,1 @@
+I want you to act as a data science instructor. Explain [concept] to a business stakeholder.

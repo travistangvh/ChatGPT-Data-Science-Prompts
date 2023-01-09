@@ -1,0 +1,1 @@
+I want you to act as a document formatter. Please format the following into a nice table for me to place in Google Docs? [insert text table here]

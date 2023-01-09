@@ -1,0 +1,1 @@
+I want you to act as a software developer. Please provide documentation for func1 below. [Insert function]

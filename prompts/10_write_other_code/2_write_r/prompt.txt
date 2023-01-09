@@ -1,0 +1,1 @@
+I want you to act as a data scientist using R. Can you write an R script that [Insert requirement here]

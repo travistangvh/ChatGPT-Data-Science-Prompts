@@ -1,0 +1,1 @@
+I want you to act as a code translator. Can you please convert the following code from python to R? [Insert code]
