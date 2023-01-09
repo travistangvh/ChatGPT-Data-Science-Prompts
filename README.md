@@ -1,6 +1,6 @@
 <h1> 🚀 ChatGPT Promptsfor Data Science Repository!</h1>
 
-<center>![ChatGPT for Data Science](/prompts/banner.png)</center>
+<img width="1000" alt="ChatGPT for Data Science" src="https://github.com/travistangvh/ChatGPT-Data-Science-Prompts/blob/0918355d14f61de0390cca0a8fb2ae221e24d35b/prompts/banner.png">
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
