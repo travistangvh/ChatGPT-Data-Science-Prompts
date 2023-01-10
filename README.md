@@ -189,6 +189,7 @@ Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a SQL code corrector. This code does not run in `[your DBMS, e.g. PostgreSQL]`. Can you correct it for me? `[SQL code here]`
 
 ## 50. Troubleshoot PowerBI Model
+Credit: [Mathias Halkjær Petersen](https://www.linkedin.com/in/mhalkjaer/)
 > Prompt: I want you to act as a PowerBl modeler. Here is the details of my current project. `[Insert details]`. Do you see any problems with the table?
 
 # WRITE SQL
@@ -196,6 +197,7 @@ Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a data scientist and write SQL code for me. I have a table with two columns `[Insert column names]`. I would like to calculate a running average for `[which value]`. What is the SQL code that works for PostgreSQL 14?
 
 ## 52. Solve Leetcode Question
+Credit: [DataLemur](www.datalemur.com)
 > Prompt: Assume you are given the tables... with the columns... Output the following... `[Question from Data Lemur)
 
 # WRITE OTHER CODE
