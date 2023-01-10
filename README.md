@@ -1,4 +1,4 @@
-<h1> 🚀 ChatGPT Promptsfor Data Science Repository!</h1>
+<h1> 🚀 ChatGPT Prompts for Data Science!</h1>
 
 <img width="1000" alt="ChatGPT for Data Science" src="https://github.com/travistangvh/ChatGPT-Data-Science-Prompts/blob/0918355d14f61de0390cca0a8fb2ae221e24d35b/prompts/banner.png">
 
