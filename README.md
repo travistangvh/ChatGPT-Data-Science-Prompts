@@ -29,13 +29,13 @@ Adapted from the [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-pro
 ---
 # WRITE PYTHON
 ## 1. Train Classification Model
-> Prompt: I want you to act as a data scientist and code for me. I have a dataset of `[describe dataset]`. Please build a machine learning model that predict `[target variable]`. 
+> Prompt: I want you to act as a data scientist and code for me. I have a dataset of `[describe dataset]`. Please build a machine learning model that predicts `[target variable]`. 
 
 ## 2. Automatic Machine Learning
-> Prompt: I want you to act as an automatic machine learning (AutoML) bot using TPOT for me. I am working on a model that predicts `[...]`. Please write python code to find the best classification model with the highest AUC score on the test set.
+> Prompt: I want you to act as an automatic machine learning (AutoML) bot using TPOT for me. I am working on a model that predicts `[...]`. Please write Python code to find the best classification model with the highest AUC score on the test set.
 
 ## 3. Tune Hyperparameter
-> Prompt: I want you to act as a data scientist and code for me. I have trained a `[model name]`. Please write the code to tune the hyper parameters.
+> Prompt: I want you to act as a data scientist and code for me. I have trained a `[model name]`. Please write the code to tune the hyperparameters.
 
 ## 4. Explore Data
 > Prompt: I want you to act as a data scientist and code for me. I have a dataset of `[describe dataset]`. Please write code for data visualisation and exploration.
@@ -44,19 +44,19 @@ Adapted from the [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-pro
 > Prompt: I want you to act as a fake data generator. I need a dataset that has x rows and y columns: `[insert column names]`
 
 ## 6. Write Regex
-> Prompt: I want you to act as a coder. Please write me a regex in python that `[describe regex]`
+> Prompt: I want you to act as a coder. Please write me a regex in Python that `[describe regex]`
 
 ## 7. Train Time Series
-> Prompt: I want you to act as a data scientist and code for me. I have a time series dataset `[describe dataset]`. Please build a machine learning model that predict `[target variable]`. Please use `[time range]` as train and `[time range]` as validation.
+> Prompt: I want you to act as a data scientist and code for me. I have a time series dataset `[describe dataset]`. Please build a machine learning model that predicts `[target variable]`. Please use `[time range]` as train and `[time range]` as validation.
 
 ## 8. Address Imbalance Data
-> Prompt: I want you to act as a coder. I have trained a machine learning model on an imbalanced dataset. The predictor variable is the column `[Insert column name]`. In python, how do I oversample and/or undersample my data?
+> Prompt: I want you to act as a coder. I have trained a machine learning model on an imbalanced dataset. The predictor variable is the column `[Insert column name]`. In Python, how do I oversample and/or undersample my data?
 
 ## 9. Get Feature Importance
 > Prompt: I want you to act as a data scientist and explain the model's results. I have trained a decision tree model and I would like to find the most important features. Please write the code. 
 
 ## 10. Visualize Data with Matplotlib
-> Prompt: I want you to act as a coder in python. I have a dataset `[name]` with columns `[name]`. `[Describe graph requirements]`
+> Prompt: I want you to act as a coder in Python. I have a dataset `[name]` with columns `[name]`. `[Describe graph requirements]`
 
 ## 11. Visualize Image Grid Matplotlib
 > Prompt: I want you to act as a coder. I have a folder of images. `[Describe how files are organised in directory]` `[Describe how you want images to be printed]`
@@ -69,10 +69,10 @@ Adapted from the [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-pro
 > Prompt: I want you to act as a data scientist and explain the model's results. I have trained a scikit-learn XGBoost model and I would like to explain the output using a series of plots with Shap. Please write the code. 
 
 ## 14. Write Multithreaded Functions
-> Prompt: I want you to act as a coder. Can you help me parallelize this code across threads in python?
+> Prompt: I want you to act as a coder. Can you help me parallelize this code across threads in Python?
 
 ## 15. Compare Function Speed
-> Prompt: I want you to act as a software developer. I would like to compare the efficiency of two algorithms that performs the same thing in python. Please write code that helps me run an experiment that can be repeated for 5 times. Please output the runtime and other summary statistics of the experiment. `[Insert functions]`
+> Prompt: I want you to act as a software developer. I would like to compare the efficiency of two algorithms that performs the same task in Python. Please write code that helps me run an experiment that can be repeated for 5 times. Please output the runtime and other summary statistics of the experiment. `[Insert functions]`
 
 ## 16. Create NumPy Array
 > Prompt: I want you to act as a data scientist. I need to create a numpy array. This numpy array should have the shape of (x,y,z). Please initialize the numpy array with random values.
@@ -100,16 +100,16 @@ Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a software developer. Please help me improve the time complexity of the code below. `[Insert code]`
 
 ## 23. Optimize Pandas
-> Prompt: I want you to act as a code optimizer. Can you point out what's wrong with the following Pandas code and optimize it? `[Insert code here]`
+> Prompt: I want you to act as a code optimizer. Can you point out what's wrong with the following pandas code and optimize it? `[Insert code here]`
 
 ## 24. Optimize Pandas Again
-> Prompt: I want you to act as a code optimizer. Can you point out what's wrong with the following Pandas code and optimize it? `[Insert code here]`
+> Prompt: I want you to act as a code optimizer. Can you point out what's wrong with the following pandas code and optimize it? `[Insert code here]`
 
 ## 25. Optimize Python
 > Prompt: I want you to act as a code optimizer. The code is poorly written. How do I correct it? `[Insert code here]`
 
 ## 26. Optimize SQL
-> Prompt: I want you to act as an SQL code optimizer. The following code is slow. Can you help me speed it up? `[Insert SQL]`
+> Prompt: I want you to act as a SQL code optimizer. The following code is slow. Can you help me speed it up? `[Insert SQL]`
 
 ## 27. Simplify Python
 > Prompt: I want you to act as a code simplifier. Can you simplify the following code? 
@@ -131,11 +131,11 @@ Credit: [@svpino](https://twitter.com/svpino)
 
 ## 32. Translate Python to R
 Credit: [@svpino](https://twitter.com/svpino)
-> Prompt: I want you to act as a code translator. Can you please convert the following code from python to R? `[Insert code]`
+> Prompt: I want you to act as a code translator. Can you please convert the following code from Python to R? `[Insert code]`
 
 ## 33. Translate R to Python
 Credit: [@svpino](https://twitter.com/svpino)
-> Prompt: I want you to act as a code translator. Can you please convert the following code from R to python? `[Insert code]`
+> Prompt: I want you to act as a code translator. Can you please convert the following code from R to Python? `[Insert code]`
 
 # EXPLAIN CONCEPTS
 ## 34. Explain to Five-Year-Old
@@ -179,18 +179,18 @@ Credit: [@svpino](https://twitter.com/svpino)
 > Prompt: I want you to act as a career advisor. I am looking for a role as a `[role name]`. My background is `[...]`. How do I land the role and with what resources exactly in 6 months?
 
 # TROUBLESHOOT PROBLEM
-## 47. Correct Own Chatgpt Code
+## 47. Correct Own ChatGPT Code
 > Prompt: Your above code is wrong. `[Point out what is wrong]`. Can you try again?
 
 ## 48. Correct Python Code
-> Prompt: I want you to act as a software developer. This code is supposed to `[expected function]`. Please help me debug this python code that cannot be run. `[Insert function]`
+> Prompt: I want you to act as a software developer. This code is supposed to `[expected function]`. Please help me debug this Python code that cannot be run. `[Insert function]`
 
 ## 49. Correct SQL Code
 > Prompt: I want you to act as a SQL code corrector. This code does not run in `[your DBMS, e.g. PostgreSQL]`. Can you correct it for me? `[SQL code here]`
 
 ## 50. Troubleshoot PowerBI Model
 Credit: [Mathias Halkjær Petersen](https://www.linkedin.com/in/mhalkjaer/)
-> Prompt: I want you to act as a PowerBl modeler. Here is the details of my current project. `[Insert details]`. Do you see any problems with the table?
+> Prompt: I want you to act as a Power BI modeler. Here is the details of my current project. `[Insert details]`. Do you see any problems with the table?
 
 # WRITE SQL
 ## 51. Create Running Average
@@ -198,7 +198,7 @@ Credit: [Mathias Halkjær Petersen](https://www.linkedin.com/in/mhalkjaer/)
 
 ## 52. Solve Leetcode Question
 Credit: [DataLemur](www.datalemur.com)
-> Prompt: Assume you are given the tables... with the columns... Output the following... `[Question from Data Lemur)
+> Prompt: Assume you are given the tables... with the columns... Output the following... `[Question from Data Lemur)`
 
 # WRITE OTHER CODE
 ## 53. Write Google Sheets Formula
@@ -225,4 +225,3 @@ Credit: [DataLemur](www.datalemur.com)
 
 ## 60. Provide Emotional Support
 > Prompt: I want you to provide emotional support to me. `[Explain problem here.]`
-
