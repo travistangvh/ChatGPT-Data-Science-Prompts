@@ -38,7 +38,7 @@ Adapted from the [Awesome ChatGPT repo](https://github.com/f/awesome-chatgpt-pro
 > Prompt: I want you to act as a data scientist and code for me. I have trained a `[model name]`. Please write the code to tune the hyperparameters.
 
 ## 4. Explore Data
-> Prompt: I want you to act as a data scientist and code for me. I have a dataset of `[describe dataset]`. Please write code for data visualisation and exploration.
+> Prompt: I want you to act as a data scientist and code for me. I have a dataset of `[describe dataset]`. Please write code for data visualization and exploration.
 
 ## 5. Generate Data
 > Prompt: I want you to act as a fake data generator. I need a dataset that has x rows and y columns: `[insert column names]`
